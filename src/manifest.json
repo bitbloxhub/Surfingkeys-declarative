@@ -76,5 +76,10 @@
         "pages/pdf_viewer.html",
         "pages/shadow.css"
     ],
-    "content_security_policy": "script-src 'self'; object-src 'self'"
+    "content_security_policy": "script-src 'self'; object-src 'self'",
+    "applications": {
+        "gecko": {
+            "id": "surfingkeys@brookhong.github.io"
+        }
+    }
 }
